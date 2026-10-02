@@ -13,8 +13,7 @@ export const initialExercises = [
       
 "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=500"
     ],
-    description: "Ejercicio compuesto enfocado en el desarrollo de los 
-músculos pectorales, tríceps y deltoides anteriores."
+    description: "Ejercicio compuesto enfocado en el desarrollo de los músculos pectorales, tríceps y deltoides anteriores."
   },
   {
     id: "2",
@@ -30,8 +29,7 @@ músculos pectorales, tríceps y deltoides anteriores."
       
 "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&q=80&w=500"
     ],
-    description: "Ejercicio fundamental para el tren inferior que 
-trabaja cuádriceps, glúteos, isquiotibiales y la zona core."
+    description: "Ejercicio fundamental para el tren inferior que trabaja cuádriceps, glúteos, isquiotibiales y la zona core."
   },
   {
     id: "3",
@@ -44,8 +42,7 @@ trabaja cuádriceps, glúteos, isquiotibiales y la zona core."
 "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&q=80&w=500",
     videoUrl: "https://www.youtube.com/watch?v=example3",
     additionalImageUrls: [],
-    description: "Ejercicio con el peso corporal ideal para fortalecer 
-el dorsal ancho, los bíceps y mejorar la fuerza de agarre."
+    description: "Ejercicio con el peso corporal ideal para fortalecer el dorsal ancho, los bíceps y mejorar la fuerza de agarre."
   }
 ];
 
